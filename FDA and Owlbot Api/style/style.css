@@ -1,0 +1,43 @@
+*{
+  margin: 0
+}
+#tableID,h3{
+      margin-left: 57%
+}
+.inputButton{
+  background-image: linear-gradient(90deg,#007fed,#1073cb);
+  height: 15rem;
+  margin-top: 13%;
+
+}
+p{
+  display: inline;
+}
+.inputButton > h2{
+  color: white;
+  text-align: center;
+  margin-top: 3%;
+  padding-top: 3%;
+}
+.button{
+  margin-left: 10%;
+}
+.textandButton{
+  margin-left: 41%;
+  margin-top: 5%;
+
+}
+input{
+width: 30%;
+height: 1.9rem;
+
+}
+button{
+  width: 30%;
+  height: 2.2rem;
+
+}
+p,td{
+  color: blue;
+  /* float: right; */
+}
